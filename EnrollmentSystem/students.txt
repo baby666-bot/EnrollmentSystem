@@ -1,0 +1,6 @@
+2026-001|Jerriel|Cuizon|Male|BS Information Technology|1st Year|0921382732
+2026-002|KC|Gonzales|Male|BS Technology Communication Technology|1st Year|094542323432
+2026-003|Nel Bryan|Lagutin|Male|BS Electro-Mechanical Technology|1st Year|092387231
+2026-004|Arthur|Morgan|Male|BS Information Technology|1st Year|0923827321
+2026-005|Hosea|Williams|Male|BS Secondary Education|1st Year|0912382732
+2026-006|Buzz|Lightyear|Male|BS Information Technology|1st Year|0987328723

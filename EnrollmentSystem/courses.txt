@@ -1,0 +1,4 @@
+C001|BS Information Technology|BSIT
+C002|BS Electro-Mechanical Technology|BSEMT
+C003|BS Technology Communication Technology|BSTCM
+C004|BS Secondary Education|BSED

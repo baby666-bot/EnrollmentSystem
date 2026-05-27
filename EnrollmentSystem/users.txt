@@ -1,0 +1,10 @@
+ADMIN|admin123|Admin|System Administrator
+T001|T001|Teacher|Haliled Gayao
+2026-001|2026-001|Student|Jerriel Cuizon
+2026-002|2026-002|Student|KC Gonzales
+2026-003|2026-003|Student|Nel Bryan Lagutin
+2026-004|2026-004|Student|Arthur Morgan
+T002|T002|Teacher|Dutch Van
+2026-005|2026-005|Student|Hosea Williams
+T003|T003|Teacher|Colm O Driscoll
+2026-006|2026-006|Student|Buzz Lightyear
